@@ -10,7 +10,7 @@ This document outlines Hathway's requirements, guidelines, and best practices fo
 
 As with all of Hathway's processes and developer guides, issues and pull requests are encouraged in this guide's [GitHub repository](https://github.com/hathway/HWEN-drupal-development-guide). Please speak with a member of the Hathway Drupal team if you have any questions regarding what's outlined in this document.
 
-# Consider these questions before starting
+# Consider These Points Before Starting
 
 ## 1. LESS IS MORE
 Start with a fresh installation of drupal and carefully consider whether you actually need all of the features of a contributed module before installing it (be aware of what you can do with just drupal core). This applies to theming as well. Do you really need all of the items included in the zurb foundation or bootstrap themes? Chances are you will probably be customizing most of the theme yourself, so it might be better to create your own custom theme and only include the parts of the framework that you need (grid, typography, icons..etc).
