@@ -4,10 +4,11 @@ title: Drupal 7 Site Implementation Guide
 category: style-guides
 ---
 
-# Hathway Drupal Imlementation Guide
+# Introduction
+
 This document outlines Hathway's requirements, guidelines, and best practices for Drupal site development. All engineers, both Hathway employees and sub-contractors, are required to read this guide and agree to all terms outlined here before working on a Hathway Drupal site. 
 
-The repository for this 
+As with all of Hathway's processes and developer guides, issues and pull requests are encouraged in this guide's [GitHub repository](https://github.com/hathway/HWEN-drupal-development-guide). Please speak with a member of the Hathway Drupal team if you have any questions regarding what's outlined in this document.
 
 # Consider these questions before starting
 
