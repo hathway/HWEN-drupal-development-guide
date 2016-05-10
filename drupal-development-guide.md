@@ -7,14 +7,14 @@ category: style-guides
 # Hathway Drupal Imlementation Guide
 This document outlines Hathway's requirements, guidelines, and best practices for Drupal site development. All engineers, both Hathway employees and sub-contractors, are required to read this guide and agree to all terms outlined here before working on a Hathway Drupal site.
 
-The repository for this
+The repository for this guide is at https://github.com/hathway/HWEN-drupal-development-guide
 
 ## Consider these questions before starting
 
 ### 1. LESS IS MORE
 Start with a fresh installation of drupal and carefully consider whether you actually need all of the features of a contributed module before installing it (be aware of what you can do with just drupal core). This applies to theming as well. Do you really need all of the items included in the zurb foundation or bootstrap themes? Chances are you will probably be customizing most of the theme yourself, so it might be better to create your own custom theme and only include the parts of the framework that you need (grid, typography, icons..etc).
 
-### 2 .EDITING CONTENT
+### 2. EDITING CONTENT
 This is key -- remember you are building your site within a CMS which most likely means that someone other than you will be attempting to edit and add content. The experience for editing the site should be intuitive and simple if at all possible. If you can’t easily figure out how to edit a piece of content on the site, then chances are the client won’t be able to either.
 
 ### 3. IF YOU DON’T NEED IT, DELETE IT
